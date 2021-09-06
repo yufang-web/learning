@@ -1,4 +1,8 @@
 # learning
+hisat
+faster and more accurate than bowtie and tophat
+3N version out in 2021
+link:http://daehwankimlab.github.io/hisat2/
 
 glimmer3 
 link:http://ccb.jhu.edu/software/glimmer/glimmer302b.tar.gz
