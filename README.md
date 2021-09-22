@@ -13,3 +13,19 @@ usage:http://ccb.jhu.edu/software/glimmer/index.shtml
 finding repetitive sequence
 https://www.jianshu.com/p/05dea4c1ada4
 
+input？positive?
+Chip-seq
+fastq
+trim_galore
+mapping to reference gene
+hisat2
+gatk MarkDuplicates
+bamCompare
+sort
+bedGraphToBigWig
+bamCoverage
+macs2 callpeak
+peak calling 
+chipsseeker meme、
+clusterprofiler
+meme
